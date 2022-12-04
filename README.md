@@ -319,7 +319,7 @@ Jointly, we discuss _Shiny apps_ which provide a nice "sandbox" to put everythin
 -----
 
 
-## 11. Text Data: Regex (p)art I)
+## 11. Text Data: Regex (part I)
 
 :card_index: __ABOUT__:
 
