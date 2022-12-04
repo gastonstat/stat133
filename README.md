@@ -28,7 +28,7 @@
     + [Web Technologies in R](https://www.gastonsanchez.com/R-web-technologies)
     + Prof. Sanchez's slides
 
-- __Prerequisites__: This course does not have any prerequisites, although it would be nice if you have taken an introductory courses in statistics and programming.
+- __Prerequisites__: This course does not have any prerequisites, although it would be nice if you have taken introductory courses in statistics and programming.
 
 
 -----
