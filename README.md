@@ -40,7 +40,9 @@
 
 We begin with the usual review of the course policies, logistics, overall expectations, topics in a nutshell, etc.
 
-At the conceptual level, I describe the main stages of the data analysis cycle. Likewise, I introduce a framework for looking at the notion of "Data" from 3 interconnected perspectives. Also, you'll get started with R and RStudio.
+At the conceptual level I describe the main stages of the data analysis cycle. Likewise, I introduce a framework for looking at the notion of "Data" from 3 interconnected perspectives. 
+
+At the computational level you'll get started with R and RStudio.
 
 <br>
 
