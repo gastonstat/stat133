@@ -11,9 +11,9 @@
 
 - __Instructor__: Gaston Sanchez
 
-- __Lecture__: 3 days p/week; 1-hour each day
+- __Lecture__: 3 hours of lecture per week
 
-- __Lab__: weekly 2-hour computer lab sessions
+- __Lab__: 2 hours of computer lab sessions
 
 - __Assignments__: biweekly HW assignments
 
@@ -29,6 +29,8 @@
     + Prof. Sanchez's slides
 
 - __Prerequisites__: This course does not have any prerequisites, although it would be nice if you have taken introductory courses in statistics and programming.
+
+- __LMS__: the specific learning resources of a given semester are shared in the Learning Management Sysment (LMS) approved by Campus authorities (e.g. bCourses, Canvas)
 
 
 -----
