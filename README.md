@@ -9,7 +9,7 @@
 
 - __Note__: Because Stat 133 is one of the core courses for Statistics majors, the underlying goal is to provide foundations for "computing with data" so that stat majors, as well as other data-dependent majors (e.g. Data Science, Applied Math, CogSci, Economics, etc), have the basic computational skills for subsequent upper division courses (e.g. Stat 150, 151A, 152, 153, 154, 155, 157, 158, 159).
 
-- __Instructor__: Gaston Sanchez
+- __Instructor__: [Gaston Sanchez](https://www.gastonsanchez.com)
 
 - __Lecture__: 3 hours of lecture per week
 
